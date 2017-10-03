@@ -1,2 +1,2 @@
 # SPOJ-CSHARP
-Example of problems solution from pl.spoj.pl
+Example of solutions to pl.spoj.com problems
